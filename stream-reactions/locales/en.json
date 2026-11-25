@@ -1,0 +1,12 @@
+{
+  "panel.title": "Stream Reactions",
+  "panel.description": "Reacts to Twitch and YouTube events from Stream Integrations by throwing objects at the avatar.",
+  "settings.bits": "Minimum bits for a star",
+  "settings.superchat": "Minimum Super Chat amount for a star",
+  "settings.follows": "Throw a ball for every follow",
+  "settings.subs": "Cubes per subscription or membership",
+  "log.title": "Recent events",
+  "log.empty": "Waiting for events. Use a test event in Stream Integrations to try it.",
+  "event.line": "{platform} · {user}: {type} ({amount})",
+  "event.reaction": "{count} × {kind}"
+}

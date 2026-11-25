@@ -1,0 +1,12 @@
+{
+  "id": "example.stream-reactions",
+  "name": "Stream Reactions",
+  "version": "1.0.0",
+  "type": "plugin",
+  "sdkVersion": "1.0.0",
+  "description": "Throws objects at the avatar when Twitch or YouTube events arrive.",
+  "entry": "dist/index.js",
+  "locales": "locales",
+  "capabilities": ["controls", "integration"],
+  "dependencies": ["vtuber-lite.avatar-collisions", "vtuber-lite.stream-integrations"]
+}

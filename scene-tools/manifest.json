@@ -1,0 +1,12 @@
+{
+  "id": "example.scene-tools",
+  "name": "Scene Tools",
+  "version": "1.0.0",
+  "type": "plugin",
+  "sdkVersion": "1.0.0",
+  "description": "Adds 3D models and primitives next to the avatar and edits their transform and visibility.",
+  "entry": "dist/index.js",
+  "locales": "locales",
+  "capabilities": ["controls", "integration"],
+  "dependencies": []
+}

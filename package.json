@@ -1,0 +1,21 @@
+{
+  "name": "vtuber-lithing-examples",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Example extensions for Vtuber-Lithing.",
+  "packageManager": "pnpm@11.23.0",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "package": "node scripts/build.mjs && node scripts/package.mjs"
+  },
+  "devDependencies": {
+    "fflate": "^0.8.2",
+    "typescript": "~5.7.3",
+    "vite": "^6.2.2",
+    "vtuber-lithing-sdk": "github:Happyuky7/vtuber-lithing-sdk"
+  },
+  "license": "MIT",
+  "author": "Happyuky7"
+}

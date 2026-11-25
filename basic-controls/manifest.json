@@ -1,0 +1,12 @@
+{
+  "id": "example.basic-controls",
+  "name": "Basic Controls",
+  "version": "1.0.0",
+  "type": "plugin",
+  "sdkVersion": "1.0.0",
+  "description": "Starter extension: panel, avatar data, storage, events, a 3D cube and a throwable object.",
+  "entry": "dist/index.js",
+  "locales": "locales",
+  "capabilities": ["tracking", "controls", "integration"],
+  "dependencies": ["vtuber-lite.avatar-collisions"]
+}

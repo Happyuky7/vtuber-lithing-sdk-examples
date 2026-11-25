@@ -1,0 +1,12 @@
+{
+  "panel.title": "Reações de stream",
+  "panel.description": "Reage aos eventos da Twitch e do YouTube do Stream Integrations lançando objetos no avatar.",
+  "settings.bits": "Bits mínimos para uma estrela",
+  "settings.superchat": "Valor mínimo de Super Chat para uma estrela",
+  "settings.follows": "Lançar uma bola a cada follow",
+  "settings.subs": "Cubos por inscrição ou assinatura",
+  "log.title": "Eventos recentes",
+  "log.empty": "Aguardando eventos. Use um evento de teste no Stream Integrations para experimentar.",
+  "event.line": "{platform} · {user}: {type} ({amount})",
+  "event.reaction": "{count} × {kind}"
+}

@@ -1,0 +1,14 @@
+{
+  "panel.title": "基本コントロール",
+  "panel.description": "パネル、アバター情報、保存、イベント、3Dキューブ、投げるオブジェクトを備えた入門用の拡張機能です。",
+  "button.avatar": "アバターを確認",
+  "button.addCube": "3Dキューブを追加",
+  "button.removeCube": "3Dキューブを削除",
+  "button.throw": "オブジェクトを投げる",
+  "status.avatar": "{name} · 表情{count}個",
+  "status.noAvatar": "アバターが読み込まれていません。",
+  "status.activations": "保存された起動回数: {count}",
+  "status.avatarEvent": "avatar-loadedイベントを受信しました。",
+  "log.activating": "基本コントロールのサンプルを起動しています。",
+  "log.deactivated": "サンプルを停止し、リソースを解放しました。"
+}

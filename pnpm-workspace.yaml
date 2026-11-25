@@ -1,0 +1,3 @@
+# Makes this folder its own pnpm root, independent of any parent checkout.
+allowBuilds:
+  esbuild: true

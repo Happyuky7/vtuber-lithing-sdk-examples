@@ -1,0 +1,12 @@
+{
+  "id": "example.stage-controls",
+  "name": "Stage Controls",
+  "version": "1.0.0",
+  "type": "plugin",
+  "sdkVersion": "1.0.0",
+  "description": "Expressions, a floating stage button, a global hotkey, a modal, mode events and a request to a device on the local network.",
+  "entry": "dist/index.js",
+  "locales": "locales",
+  "capabilities": ["controls", "integration", "tracking", "expressions", "hotkeys", "overlay", "network"],
+  "dependencies": []
+}

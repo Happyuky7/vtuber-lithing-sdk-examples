@@ -1,0 +1,14 @@
+{
+  "panel.title": "基础控件",
+  "panel.description": "完整的入门扩展：面板、形象数据、存储、事件、3D 立方体和可投掷物体。",
+  "button.avatar": "读取形象",
+  "button.addCube": "添加 3D 立方体",
+  "button.removeCube": "移除 3D 立方体",
+  "button.throw": "投掷物体",
+  "status.avatar": "{name} · {count} 个表情",
+  "status.noAvatar": "尚未加载形象。",
+  "status.activations": "已保存的启用次数：{count}",
+  "status.avatarEvent": "已收到 avatar-loaded 事件。",
+  "log.activating": "正在启用基础控件示例。",
+  "log.deactivated": "示例已停用，资源已释放。"
+}

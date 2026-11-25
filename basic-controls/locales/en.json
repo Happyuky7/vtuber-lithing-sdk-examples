@@ -1,0 +1,14 @@
+{
+  "panel.title": "Basic Controls",
+  "panel.description": "A complete starter extension: panel, avatar data, storage, events, a 3D cube and a throwable object.",
+  "button.avatar": "Read avatar",
+  "button.addCube": "Add 3D cube",
+  "button.removeCube": "Remove 3D cube",
+  "button.throw": "Throw object",
+  "status.avatar": "{name} · {count} expressions",
+  "status.noAvatar": "No avatar is loaded.",
+  "status.activations": "Saved activations: {count}",
+  "status.avatarEvent": "avatar-loaded event received.",
+  "log.activating": "Activating the Basic Controls example.",
+  "log.deactivated": "Example deactivated and resources released."
+}

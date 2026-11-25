@@ -1,0 +1,12 @@
+{
+  "panel.title": "直播互动",
+  "panel.description": "响应 Stream Integrations 中的 Twitch 和 YouTube 事件，向形象投掷物体。",
+  "settings.bits": "触发星星的最少 Bits",
+  "settings.superchat": "触发星星的最低 Super Chat 金额",
+  "settings.follows": "每次关注投掷一个球",
+  "settings.subs": "每次订阅或会员投掷的立方体数",
+  "log.title": "最近事件",
+  "log.empty": "正在等待事件。可在 Stream Integrations 中使用测试事件进行试用。",
+  "event.line": "{platform} · {user}：{type}（{amount}）",
+  "event.reaction": "{count} × {kind}"
+}

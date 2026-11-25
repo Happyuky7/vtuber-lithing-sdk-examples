@@ -1,0 +1,14 @@
+{
+  "panel.title": "Controles básicos",
+  "panel.description": "Uma extensão inicial completa: painel, dados do avatar, armazenamento, eventos, um cubo 3D e um objeto arremessável.",
+  "button.avatar": "Ler avatar",
+  "button.addCube": "Adicionar cubo 3D",
+  "button.removeCube": "Remover cubo 3D",
+  "button.throw": "Lançar objeto",
+  "status.avatar": "{name} · {count} expressões",
+  "status.noAvatar": "Nenhum avatar está carregado.",
+  "status.activations": "Ativações salvas: {count}",
+  "status.avatarEvent": "Evento avatar-loaded recebido.",
+  "log.activating": "Ativando o exemplo de controles básicos.",
+  "log.deactivated": "Exemplo desativado e recursos liberados."
+}

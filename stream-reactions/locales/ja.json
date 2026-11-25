@@ -1,0 +1,12 @@
+{
+  "panel.title": "配信リアクション",
+  "panel.description": "Stream IntegrationsのTwitch・YouTubeイベントに反応して、アバターにオブジェクトを投げます。",
+  "settings.bits": "スターを投げる最小ビッツ",
+  "settings.superchat": "スターを投げる最小スーパーチャット金額",
+  "settings.follows": "フォローごとにボールを投げる",
+  "settings.subs": "サブスク・メンバーシップごとのキューブ数",
+  "log.title": "最近のイベント",
+  "log.empty": "イベントを待っています。Stream Integrationsのテストイベントで試せます。",
+  "event.line": "{platform} · {user}: {type}（{amount}）",
+  "event.reaction": "{count} × {kind}"
+}
